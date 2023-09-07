@@ -3,13 +3,13 @@ This repository contains modifications made to various Dialogflow chatbots. Belo
 
 | Chatbot Name | Source |
 |--------------|--------|
-| [Insurance](https://github.com/roccograpisarda/insurance-dialogflow) | Kommunicate |
-| [E-Commerce](https://github.com/roccograpisarda/ecommerce-dialogflow) | Kommunicate |
-| [Weather Forecast](https://github.com/roccograpisarda/weather-forecast-dialogflow) | Dialogflow |
-| [Currency-converter](https://github.com/roccograpisarda/currency-converter-dialogflow) | Dialogflow |
-| [Temperature-converter](https://github.com/roccograpisarda/temperature-converter-dialogflow) | Dialogflow |
-| [G-Calendar appointment scheduler](https://github.com/roccograpisarda/gcalendar-scheduler-dialogflow) | Dialogflow |
-| [News](https://github.com/roccograpisarda/news-dialogflow) | Dialogflow |
+| [Insurance](https://github.com/roccograpisarda/modified-chatbot-source-files/tree/main/Kommunicate/insurance-dialogflow) | Kommunicate |
+| [E-Commerce](https://github.com/roccograpisarda/modified-chatbot-source-files/tree/main/Kommunicate/ecommerce-dialogflow) | Kommunicate |
+| [Weather Forecast](https://github.com/roccograpisarda/modified-chatbot-source-files/tree/main/Dialogflow/weather-forecast-dialogflow) | Dialogflow |
+| [Currency-converter](https://github.com/roccograpisarda/modified-chatbot-source-files/tree/main/Dialogflow/currency-converter-dialogflow) | Dialogflow |
+| [Temperature-converter](https://github.com/roccograpisarda/modified-chatbot-source-files/tree/main/Dialogflow/temperature-converter-dialogflow) | Dialogflow |
+| [G-Calendar appointment scheduler](https://github.com/roccograpisarda/modified-chatbot-source-files/tree/main/Dialogflow/gcalendar-scheduler-dialogflow) | Dialogflow |
+| [News](https://github.com/roccograpisarda/modified-chatbot-source-files/tree/main/Dialogflow/news-dialogflow) | Dialogflow |
 
 ## Contributing
 
